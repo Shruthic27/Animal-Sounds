@@ -1,0 +1,17 @@
+body{
+    background:linear-gradient(purple,maroon,purple);
+    color: white;
+    
+}
+img{
+    width: 300;
+}
+#H{
+background-color:goldenrod;
+}
+h1{
+    font-family: 'Lobster', cursive;  
+}
+#c{
+    background-color:dodgerblue;
+}
