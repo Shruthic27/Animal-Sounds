@@ -13,5 +13,11 @@ h1{
     font-family: 'Lobster', cursive;  
 }
 #c{
-    background-color:dodgerblue;
+    background-color:dodgerblue; 
+    position: fixed;
+    bottom: 10px;
+    width:100%;
+    line-height:3;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px gray;
 }
